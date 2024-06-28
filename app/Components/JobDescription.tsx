@@ -1,8 +1,8 @@
 export default function JobDescription() {
     return (
-        <div className="flex flex-col mt-6 ml-24 max-w-full font-normal w-[526px]">
+        <div className="flex flex-col mt-6 ml-20 max-w-full font-normal w-[526px]">
             <h2 className="justify-center self-start text-sm text-zinc-500">About the job</h2>
-            <div className="mt-2 text-base leading-7 whitespace-nowrap text-ellipsis text-zinc-700 max-md:max-w-full">
+            <div className="mt-2 text-sm leading-7 whitespace-nowrap text-ellipsis text-zinc-700 max-md:max-w-full">
                 <div>
                     <ul className="list-decimal ml-5">
                         <li>Handle the UI/UX research design</li>
