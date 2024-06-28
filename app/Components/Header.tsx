@@ -29,12 +29,12 @@ export default function Header() {
           </div>
           <div className="flex gap-2 items-center justify-center p-2">
             <div className="relative">
-               <img loading="lazy" src="/bell-02.svg" alt="Notification icon" className="shrink-1 my-auto w-4 aspect-square" />
+               <img loading="lazy" src="/bell-02.svg" alt="Notification icon" className="shrink-1 my-auto w-5 aspect-square" />
               <p className="text-[#DC4A2D] rounded-full absolute top-0 right-1 w-1 h-1 bg-[#DC4A2D] "></p>
             </div>
            
             <div className="flex gap-1 justify-center">
-              <img loading="lazy" src="/Rectangle_5.svg" alt="User avatar" className="shrink-1 w-5 h-5 aspect-square" />
+              <img loading="lazy" src="/Rectangle_5.svg" alt="User avatar" className="shrink-1 w-6 h-6 aspect-square" />
               <img loading="lazy" src="/chevron-down.svg" alt="Dropdown icon" className="shrink-1 my-auto w-4 aspect-square" />
             </div>
           </div>

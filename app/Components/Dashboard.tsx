@@ -46,7 +46,7 @@ export default function Dashboard() {
   return (
     <div className="flex flex-col bg-zinc-50">
       <Header />
-      <main className="flex overflow-hidden relative flex-col w-full min-h-[800px] max-md:max-w-full">
+      <main className="flex overflow-hidden relative flex-col min-w-[1150px] min-h-[800px] max-md:max-w-full">
     
         <nav className="flex relative flex-col items-start px-20 pt-2 w-full text-sm font-medium bg-white border border-solid border-neutral-200 text-zinc-400 max-md:px-3 max-md:max-w-full">
           <div className="flex gap-5 justify-between py-2 max-w-full w-[500px] max-md:flex-wrap">
